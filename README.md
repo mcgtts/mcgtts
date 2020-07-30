@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mcgtts&show_icons=true)](https://github.com/mcgtts/mcgtts)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcgtts&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+![gtts's github stats](https://github-readme-stats.vercel.app/api?username=mcgtts&show_icons=true&theme=radical)
 
 <!--
 **mcgtts/mcgtts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
